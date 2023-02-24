@@ -105,7 +105,7 @@
 
 #followers-count-section {
     position: absolute;
-    top: 712px;
+    top: 632px;
     left: 0px;
     width: 1296px;
     height: 75px;
@@ -201,7 +201,7 @@
     position: absolute;
     width: 1296px;
     height: 665px;
-    top: 787px;
+    top: 707px;
     background: #101010;
 }
 
@@ -339,7 +339,7 @@
 #third-section {
     position: absolute;
     width: 1296px;
-    top: 1452px;
+    top: 1372px;
     display: block;
     height: 900px;
 }
@@ -632,7 +632,7 @@
     background-color: black;
     width: 1294px;
     height: 600px;
-    top: 2374px;
+    top: 2272px;
 }
 
 
@@ -883,7 +883,7 @@
     width: 1294px;
     height: 1260px;
     background-color: black;
-    top: 3169px;
+    top: 3067px;
 }
 
 #fifth-section-insta-icon {
@@ -1272,7 +1272,7 @@
     position: absolute;
     width: 1294px;
     height: 1650px;
-    top: 4429px;
+    top: 4327px;
     background-color: white;
 }
 
@@ -1365,7 +1365,7 @@
     position: absolute;
     width: 1294px;
     height: 600px;
-    top: 6080px;
+    top: 5978px;
 }
 
 #seventh-section-background-image-1 {
@@ -1481,7 +1481,7 @@
     position: absolute;
     width: 1294px;
     height: 222px;
-    top: 6642px;
+    top: 6540px;
     background-color: #181920;
 }
 
