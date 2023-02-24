@@ -1,6 +1,6 @@
 #alex-costa-avatar {
     position: absolute;
-    top: -605px;
+    top: -681px;
     left: -150px;
     width: 250px;
 }
@@ -21,7 +21,7 @@
     top: -702px;
     background-color: #313236;
     opacity: 50%;
-    height: 718px;
+    height: 711px;
 }
 
 #ready-to-become {
@@ -81,7 +81,7 @@
 #carousell-login-button {
     border: 2px solid rgb(255,255,255);
     position: absolute;
-    top: -550px;
+    top: -619px;
     left: 809px;
     font-family: monospace;
     border-radius: 1px;
@@ -106,7 +106,7 @@
 
 #followers-count-section {
     position: absolute;
-    top: 632px;
+    top: 711px;
     left: 0px;
     width: 1296px;
     height: 75px;
@@ -202,7 +202,7 @@
     position: absolute;
     width: 1296px;
     height: 665px;
-    top: 707px;
+    top: 786px;
     background: #101010;
 }
 
@@ -340,7 +340,7 @@
 #third-section {
     position: absolute;
     width: 1296px;
-    top: 1372px;
+    top: 1451px;
     display: block;
     height: 900px;
 }
@@ -633,7 +633,7 @@
     background-color: black;
     width: 1294px;
     height: 600px;
-    top: 2272px;
+    top: 2351px;
 }
 
 
@@ -884,7 +884,7 @@
     width: 1294px;
     height: 1260px;
     background-color: black;
-    top: 3067px;
+    top: 3146px;
 }
 
 #fifth-section-insta-icon {
@@ -1273,7 +1273,7 @@
     position: absolute;
     width: 1294px;
     height: 1650px;
-    top: 4327px;
+    top: 4406px;
     background-color: white;
 }
 
@@ -1366,7 +1366,7 @@
     position: absolute;
     width: 1294px;
     height: 600px;
-    top: 5978px;
+    top: 6056px;
 }
 
 #seventh-section-background-image-1 {
@@ -1482,7 +1482,7 @@
     position: absolute;
     width: 1294px;
     height: 222px;
-    top: 6540px;
+    top: 6618px;
     background-color: #181920;
 }
 
