@@ -76,6 +76,12 @@
 }
 
 
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 632px;
+}
 
 #carousell-login-button {
     border: 2px solid rgb(255,255,255);
