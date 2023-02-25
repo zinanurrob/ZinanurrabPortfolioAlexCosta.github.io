@@ -207,7 +207,7 @@
 }
 
 #alex-costa-pictures {
-    position: relative;
+    position: inherit;
     top: 35px;
     left: 84px;
 }
