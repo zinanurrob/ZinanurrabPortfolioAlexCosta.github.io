@@ -1824,7 +1824,7 @@ color: #C6C6C6;
 
 /* responsive design for mobile devices starts here */
 
-@media screen and (max-width:800px){
+@media screen and (max-width:500px){
 
     #carousel-section{
 
