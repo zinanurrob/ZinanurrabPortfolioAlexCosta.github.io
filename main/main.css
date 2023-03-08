@@ -1914,15 +1914,15 @@ color: #C6C6C6;
       text-decoration: none;
       text-align: center;
       font-size: 3vw;
-      left: 15%;
+      left: 13%;
       margin-top: 66px !important;
       letter-spacing: 9px;
       font-weight: bolder;
       color: cornsilk;
       border-radius: 0px;
       transition: 0.3s;
-}
     }
+    
 
     #carousel {
         margin-left: -380px;
