@@ -1731,57 +1731,56 @@ color: #C6C6C6;
 
     #follower-text {
         position: relative;
-        height: 75px;
+        height: 39px;
         width: 100%;
     }
     
     #youtube-subscriber {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 30px;
+    font-size: 13px;
     font-weight: 300;
     letter-spacing: 6.8px;
     position: relative;
-    top: 5px;
+    top: 7px;
     left: 33px;
     }
 
     #subscribers {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 15px;
+    font-size: 3px;
     font-weight: 500;
     position: relative;
     top: -12px;
-    left: 5px;
+    left: 18px;
     letter-spacing: 6px;
     max-width: 300px;
     }
     
     #instagram-followers {
-    color: white;
-    font-family: "Montserrat", Sans-serif;
-    font-size: 30px;
-    font-weight: 300;
-    letter-spacing: 7.8px;
-    position: relative;
-    top: -94px;
-    left: 181px;
-    border-left: 3px solid white;
-    height: 64px;
-    border-right: 3px solid white;
-    width: 158px;
-    padding-left: 25px;
+      color: white;
+      font-family: "Montserrat", Sans-serif;
+      font-size: 13px;
+      font-weight: 300;
+      letter-spacing: 7.8px;
+      position: relative;
+      top: -49px;
+      left: -60px;
+      height: 64px;
+      width: 126%;
+      padding-left: 202px;
+
     }
     
     #followers {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 14px;
+    font-size: 3px;
     font-weight: 500;
     position: relative;
     top: -130px;
-    left: 189px;
+    left: -46px;
     letter-spacing: 6px;
     }
     
@@ -1790,21 +1789,23 @@ color: #C6C6C6;
     font-family: "Montserrat", Sans-serif;
     font-size: 30px;
     font-weight: 300;
-    letter-spacing: 10px;
+    letter-spacing: 7px;
     position: relative;
     top: -210px;
-    left: 353px
+    left: -101px
     }
     
     #video-views {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 14px;
+    font-size: 3px;
     font-weight: 500;
     position: relative;
-    top: -228px;
-    left: 348px;
+    top: -165px;
+    left: -94px;
     letter-spacing: 5px;
+    width: 128%;
+    padding-left: 343px;
     }
     
     #background-color-div {
@@ -1915,7 +1916,7 @@ color: #C6C6C6;
       text-decoration: none;
       text-align: center;
       font-size: 3vw;
-      left: 13%;
+      left: 32%;
       margin-top: 66px !important;
       letter-spacing: 9px;
       font-weight: bolder;
@@ -2087,10 +2088,10 @@ color: #C6C6C6;
     font-weight: bold;
     font-size: 4vw;
     text-transform: uppercase;
-    width: 74%;
+    width: 94%;
     color: black;
     margin-left: -55px;
-    margin-top:-55px;
+    margin-top:-153px;
     }
 
     #about-me-text-div {
