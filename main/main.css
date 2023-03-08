@@ -1907,20 +1907,21 @@ color: #C6C6C6;
     }
 
     #first-innercircle-button {
-        background: #FE3030;
-        width: 175%;
-        height: 65px;
-        font-family: "montserrat",sans-serif;
-        text-decoration: none;
-        text-align: center;
-        font-size: 3vw;
-        left: 20%%;
-        margin-top: 66px!important;
-        letter-spacing: 9px;
-        font-weight: bolder;
-        color: cornsilk;
-        border-radius: 0px;
-        transition: 0.3s;
+      background: #FE3030;
+      width: 181%;
+      height: 60px;
+      font-family: "montserrat",sans-serif;
+      text-decoration: none;
+      text-align: center;
+      font-size: 3vw;
+      left: 84%;
+      margin-top: 66px !important;
+      letter-spacing: 9px;
+      font-weight: bolder;
+      color: cornsilk;
+      border-radius: 0px;
+      transition: 0.3s;
+}
     }
 
     #carousel {
@@ -1940,7 +1941,7 @@ color: #C6C6C6;
     #youtube-subscriber {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 30px;
+    font-size: 17px;
     font-weight: 300;
     letter-spacing: 6.8px;
     position: relative;
@@ -1953,11 +1954,11 @@ color: #C6C6C6;
     #subscribers {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 15px;
+    font-size: 6px;
     font-weight: 500;
     position: relative;
     top: -12px;
-    left: 0px;
+    left: 13px;
     letter-spacing: 6px;
     width: 100%;
     padding-left: 4px;
@@ -1966,14 +1967,14 @@ color: #C6C6C6;
     #instagram-followers {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 30px;
+    font-size: 17px;
     font-weight: 300;
     letter-spacing: 7.8px;
     position: relative;
     top: -94px;
-    left: 0;
+    left: -28px;
     height: 64px;
-    width: 100%;
+    width: 110%;
     padding-left: 202px;
     }
 
@@ -2008,11 +2009,11 @@ color: #C6C6C6;
     #followers {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 14px;
+    font-size: 6px;
     font-weight: 500;
     position: relative;
     top: -130px;
-    left: 0;
+    left: -19px;
     letter-spacing: 6px;
     width: 100%;
     padding-left: 189px;
@@ -2034,12 +2035,12 @@ color: #C6C6C6;
     #youtube-view {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 30px;
+    font-size: 17px;
     font-weight: 300;
     letter-spacing: 9px;
     position: relative;
-    top: -211px;
-    left: 0;
+    top: -165px;
+    left: -36px;
     width: 100%;
     padding-left: 346px;
     }
@@ -2047,14 +2048,20 @@ color: #C6C6C6;
     #video-views {
     color: white;
     font-family: "Montserrat", Sans-serif;
-    font-size: 14px;
+    font-size: 6px;
     font-weight: 500;
     position: relative;
-    top: -228px;
-    left: 0;
+    top: -183px;
+    left: -28px;
     letter-spacing: 4px;
     width: 100%;
     padding-left: 343px;
+    }
+    
+    #follower-text {
+      position: relative;
+      height: 49px;
+      width: 100%;
     }
 
     #about-me-section {
@@ -2096,6 +2103,7 @@ color: #C6C6C6;
     width: 74%;
     color: black;
     margin-left: -55px;
+    margin-top:-55px;
     }
 
     #about-me-text-div {
