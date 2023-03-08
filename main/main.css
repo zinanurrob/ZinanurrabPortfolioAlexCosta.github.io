@@ -1835,6 +1835,11 @@ color: #C6C6C6;
 
     }
 
+   body{
+    
+        width:100%
+    
+    }
 
   /*.mobile-responsive-avatar-container {
     position: absolute;
