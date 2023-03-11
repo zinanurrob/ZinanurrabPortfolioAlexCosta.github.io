@@ -1,0 +1,80 @@
+@media (max-width:768px){
+
+    #carousel-section {
+        width: 100%;
+    }
+
+    
+    #video-carousel-example {
+        width: 100%;
+    }
+
+    .backgrounddd-color {
+        position: absolute;
+        width: 100%;
+        top: -702px;
+        background-color: #313236;
+        opacity: 65%;
+        height: 713px;
+    }
+
+    .carousel-indicators {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 2;
+        display: flex;
+        justify-content: center;
+        padding: 0;
+        margin-right: 15%;
+        margin-bottom: 1rem;
+        margin-left: 15%;
+        list-style: none;
+    }
+
+    .backgrounddd-color {
+        position: absolute;
+        width: 100%;
+        top: -702px;
+        background-color: #313236;
+        opacity: 65%;
+        height: 713px;
+    }
+
+    #alex-costa-avatar {
+        display: block;
+        width: 100%;
+        left: 0;
+        top: -660px;
+    }
+
+
+    .carousel-caption {
+        position: absolute;
+        color: #fff;
+        text-align: center;
+    }
+
+    .mobile-responsive-ready-to-become-container {
+        width: 100%;
+        height: 32px;
+        margin-top: -450px;
+    }
+
+    #ready-to-become {
+        position: inherit;
+        font-size: 3vw;
+        letter-spacing: 8px;
+        width: 100%;
+    }
+
+    #best-version-of-yourself {
+        position: absolute;
+        font-size: 42px;
+        font-weight: bolder;
+        width: 101%;
+        line-height: 43px;
+        left: -64px;
+    }
+}
